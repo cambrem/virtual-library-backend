@@ -1,0 +1,3 @@
+com/cam/VirtualLibrary/VirtualLibraryApplication.class
+com/cam/VirtualLibrary/model/Book.class
+com/cam/VirtualLibrary/repository/BookRepository.class
