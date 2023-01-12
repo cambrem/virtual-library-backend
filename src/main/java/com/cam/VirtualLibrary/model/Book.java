@@ -13,14 +13,14 @@ public class Book {
     private String author;
     private String title;
     private String rating;
-    private String review;
+    private String notes;
 
-    public String getReview() {
-        return review;
+    public String getNotes() {
+        return notes;
     }
 
-    public void setReview(String review) {
-        this.review = review;
+    public void setNotes(String notes) {
+        this.notes = notes;
     }
 
     public Long getId() {

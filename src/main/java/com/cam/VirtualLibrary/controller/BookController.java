@@ -37,7 +37,7 @@ public class BookController {
                     book.setTitle(newBook.getTitle());
                     book.setAuthor(newBook.getAuthor());
                     book.setRating(newBook.getRating());
-                    book.setReview(newBook.getRating());
+                    book.setNotes(newBook.getNotes());
                     return bookRepository.save(book);
                 }).orElseThrow(()->new BookNotFoundException(id));
     }
