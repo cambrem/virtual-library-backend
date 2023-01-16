@@ -13,7 +13,25 @@ public class Book {
     private String author;
     private String title;
     private String rating;
+    private String genre;
+    private String dateFinished;
     private String notes;
+
+    public String getGenre() {
+        return genre;
+    }
+
+    public void setGenre(String genre) {
+        this.genre = genre;
+    }
+
+    public String getDateFinished() {
+        return dateFinished;
+    }
+
+    public void setDateFinished(String dateFinished) {
+        this.dateFinished = dateFinished;
+    }
 
     public String getNotes() {
         return notes;

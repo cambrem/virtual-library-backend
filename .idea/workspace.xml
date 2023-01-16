@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e0acfb-fe4c-4331-99b9-cca665d8feb9" name="Changes" comment="Added review field for book">
+    <list default="true" id="c1e0acfb-fe4c-4331-99b9-cca665d8feb9" name="Changes" comment="changed review to notes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cam/VirtualLibrary/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cam/VirtualLibrary/controller/BookController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cam/VirtualLibrary/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cam/VirtualLibrary/model/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cam/VirtualLibrary/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cam/VirtualLibrary/controller/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cam/VirtualLibrary/model/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cam/VirtualLibrary/model/Book.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,11 +88,19 @@
       <option name="project" value="LOCAL" />
       <updated>1673553271368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed review to notes">
+      <created>1673553863604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673553863604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added review field for book" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added review field for book" />
+    <MESSAGE value="changed review to notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed review to notes" />
   </component>
 </project>
